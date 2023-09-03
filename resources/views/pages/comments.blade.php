@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Vilnius</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <!-- Swiper slider-->
+    <link rel="stylesheet" href="vendor/swiper/swiper-bundle.min.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="vendor/owl.carousel2/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/owl.carousel2/assets/owl.theme.default.min.css">
+    <!-- Google fonts-->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,400&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface&amp;display=swap">
+    <!-- theme stylesheet-->
+    <link rel="stylesheet" href="css/style.default.css" id="theme-stylesheet">
+    <!-- Custom stylesheet - for your changes-->
+    <link rel="stylesheet" href="css/custom.css">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="img/favicon.png">
+  </head>
+  <body>
+    <!-- Header-->
+    <header class="header">
+      <!-- Top bar -->
+      <div class="py-2 bg-dark text-white">
+        <div class="container py-1">
+          <div class="row align-items-center">
+         
+              </ul>
+            </div>
+            <div class="col-lg-4 d-none d-lg-block text-center">
+              <ul class="list-inline mb-0 small">
+                <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-facebook-f"></i></a></li>
+                <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-twitter"></i></a></li>
+                <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-instagram"></i></a></li>
+                <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-youtube"></i></a></li>
+                <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-vimeo-v"></i></a></li>
+              </ul>
+            </div>
+            
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Navbar 1 -->
+      <nav class="navbar navbar-expand-lg navbar-light bg-white py-4">
+        <div class="container text-center"><a class="navbar-brand mx-auto" href="index.html"><img class="mb-2" src="img/logo.svg" alt="" width="140">
+            <p class="text-sm text-uppercase text-gray mb-0">Ką aplankyti Vilniuje?</p></a></div>
+      </nav>
+      <!-- Navbar 2 -->
+      <nav class="navbar navbar-expand-lg navbar-light border-gray py-2 bg-light">
+        <div class="container">
+          <button class="navbar-toggler navbar-toggler-right mx-auto border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+          <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+            <ul class="navbar-nav mx-auto">
+              <li class="nav-item px-1">
+                <!-- Link--><a class="nav-link" href="/">Pagrindinis</a>
+              </li>
+              <li class="nav-item px-1">
+                <!-- Link--><a class="nav-link" href="/#kategorijos">Kategorijos</a>
+              </li>
+              
+                <div class="dropdown-menu text-center text-lg-start shadow-sm" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item" href="index.html">Pagrindinis</a><a class="dropdown-item" href="listing.html">Kategorijos</a><a class="dropdown-item" href="post.html">Post</a></div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+   
+           
+            <a class="reset-anchor" href='comments' >
+  <h3 class="h4 mb-4 d-flex align-items-center text-start">
+    <span>Komentarai</span>
+  </h3>
+</a>
+            
+            
+              <li>
+              <div class="d-flex mb-4">
+                  <div class="pe-2 " style="width: 75px; min-width: 75px;"><img class="rounded-circle shadow-sm img-fluid img-thumbnail" src="img/person-2.jpg" alt=""/></div>
+                  <div class="ps-2">
+                    <p class="small mb-0 text-primary "></p>
+                    <h5>Simona Karalienė</h5>
+                    <p class="text-muted text-sm mb-2 ">LAbas asdasdas</p><a class="reset-anchor text-sm" href="#!"><i class="fas fa-share me-2 text-primary"></i><strong>Atsakyti</strong></a>
+                  </div>
+                </div>
+                <div class="d-flex mb-4">
+                  <div class="pe-2 " style="width: 75px; min-width: 75px;"><img class="rounded-circle shadow-sm img-fluid img-thumbnail" src="img/person-1.jpg" alt=""/></div>
+                  <div class="ps-2">
+                    <p class="small mb-0 text-primary"></p>
+                    <h5>Saulius Saulaitis</h5>
+                    <p class="text-muted text-sm mb-2">lalala</p><a class="reset-anchor text-sm" href="#!"><i class="fas fa-share me-2 text-primary"></i><strong>Reply</strong></a>
+                  </div>
+                
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4">
+            
+            
+            </div>
+           
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="bg-dark py-4">
+      <div class="container">
+        <div class="row py-2 gy-2">
+          <div class="col-lg-4 text-center text-lg-start">
+            <p class="small text-muted text-uppercase mb-0">&copy; copyright 2021 - all rights reserved</p>
+          </div>
+          <div class="col-lg-4 text-center">
+            <ul class="list-inline text-white small mb-0">
+              <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-facebook-f"></i></a></li>
+              <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-twitter"></i></a></li>
+              <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-instagram"></i></a></li>
+              <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-youtube"></i></a></li>
+              <li class="list-inline-item"><a class="reset-anchor" href="#!"><i class="fab fa-vimeo-v"></i></a></li>
+            </ul>
+          </div>
+          <div class="col-lg-4 text-center text-lg-end">
+            <p class="small text-muted text-uppercase mb-0">Template designed by <a href="https://bootstrapious.com/p/bootstrap-travel-blog-template">Bootstrapious</a>. </p>
+            <!-- If you want to remove the backlink, please purchase the Attribution-Free License. See details in readme.txt or license.txt. Thanks!-->
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- JavaScript files-->
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="js/front.js"></script>
+    <script>
+      // ------------------------------------------------------- //
+      //   Inject SVG Sprite - 
+      //   see more here 
+      //   https://css-tricks.com/ajaxing-svg-sprite/
+      // ------------------------------------------------------ //
+      function injectSvgSprite(path) {
+      
+          var ajax = new XMLHttpRequest();
+          ajax.open("GET", path, true);
+          ajax.send();
+          ajax.onload = function(e) {
+          var div = document.createElement("div");
+          div.className = 'd-none';
+          div.innerHTML = ajax.responseText;
+          document.body.insertBefore(div, document.body.childNodes[0]);
+          }
+      }
+      // this is set to BootstrapTemple website as you cannot 
+      // inject local SVG sprite (using only 'icons/orion-svg-sprite.svg' path)
+      // while using file:// protocol
+      // pls don't forget to change to your domain :)
+      injectSvgSprite('https://bootstraptemple.com/files/icons/orion-svg-sprite.svg'); 
+      
+    </script>
+    <!-- FontAwesome CSS - loading as last, so it doesn't block rendering-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  </body>
+</html>
